@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 16 "Helvetica";
+
+ 
+    color: #121214;
+}
+
+.containerButton {
+    margin: 20px;
+    padding-left: 80px;
+}
+
+.papelParede{
+    
+    background-color: burlywood;
+    padding: 20px;
+    border: solid 1px black ;
+}
+
+.repository-list{
+    padding-left: 80px;
+}
+
+#butão{
+  padding: 20px 50px; 
+  background-color: red; 
+  color: aliceblue;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#cont {
+    font-size: 50px;    
+}
+
+
+#text {
+    font-size: 50px;
+}

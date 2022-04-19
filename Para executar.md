@@ -1,0 +1,3 @@
+## para executar 
+
+ yarn webpack
